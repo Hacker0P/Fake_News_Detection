@@ -1,5 +1,7 @@
 # 📰 Fake News Detection System
 
+<img src="C:\Users\DELL\OneDrive\Desktop\Fake_News_Detection\images" width="100%">
+
 The **Fake News Detection System** uses **Natural Language Processing (NLP)** and **Machine Learning (ML)** techniques to identify fake news articles. It analyzes the content of news articles and predicts whether they are **real** or **fake**. The system is built using **Logistic Regression** and **Random Forest**, achieving **98.27% accuracy**.
 
 This project features a **Streamlit-based UI** that allows users to test news articles and even upload bulk files for verification.
