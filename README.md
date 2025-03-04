@@ -1,6 +1,8 @@
 # 📰 Fake News Detection System
 
-<img src="https://raw.githubusercontent.com/Hacker0P/Fake_News_Detection/main/fake1.jpg" width="80%">
+<img src="https://raw.githubusercontent.com/Hacker0P/Fake_News_Detection/main/fake1.jpg" width="100%">
+
+<img src="https://raw.githubusercontent.com/Hacker0P/Fake_News_Detection/main/fake2.jpg" width="100%">
 
 The **Fake News Detection System** uses **Natural Language Processing (NLP)** and **Machine Learning (ML)** techniques to identify fake news articles. It analyzes the content of news articles and predicts whether they are **real** or **fake**. The system is built using **Logistic Regression** and **Random Forest**, achieving **98.27% accuracy**.
 
