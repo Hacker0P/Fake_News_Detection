@@ -93,10 +93,9 @@ The model performed **exceptionally well**, achieving high accuracy and recall:
 ---
 
 ## 🚀 Demo and Deployment
-🔗 **[👉 Try the Live Demo Here](https://fakenewsdetection-sqkrjjwxcjh9gia5i5ar83.streamlit.app/)**
+🔗 **[Try the Live Demo Here](https://fakenewsdetection-sqkrjjwxcjh9gia5i5ar83.streamlit.app/)**
 
 ---
 
-## 💜 License  
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+
 
