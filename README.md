@@ -1,8 +1,8 @@
 # 📰 Fake News Detection System
 
-<img src="https://raw.githubusercontent.com/Hacker0P/Fake_News_Detection/main/fake1.jpg" width="100%">
+<img src="https://raw.githubusercontent.com/Hacker0P/Fake_News_Detection/main/images/fake1.jpg" width="100%">
 
-<img src="https://raw.githubusercontent.com/Hacker0P/Fake_News_Detection/main/fake2.jpg" width="100%">
+<img src="https://raw.githubusercontent.com/Hacker0P/Fake_News_Detection/main/images/fake2.jpg" width="100%">
 
 The **Fake News Detection System** uses **Natural Language Processing (NLP)** and **Machine Learning (ML)** techniques to identify fake news articles. It analyzes the content of news articles and predicts whether they are **real** or **fake**. The system is built using **Logistic Regression** and **Random Forest**, achieving **98.27% accuracy**.
 
@@ -75,8 +75,28 @@ The model performed **exceptionally well**, achieving high accuracy and recall:
 
 ---
 
-## 🚀 Demo and Deployment
-The project is deployed on **Streamlit Cloud**. Try it here:  
-🔗 **[Live Demo](https://fakenewsdetection-sqkrjjwxcjh9gia5i5ar83.streamlit.app/)**
+## 🔧 How to Run Locally  
+1️⃣ Clone the repo:  
+```bash
+ git clone https://github.com/Hacker0P/Fake_News_Detection.git
+ cd Fake_News_Detection
+```
+2️⃣ Install dependencies:  
+```bash
+ pip install -r requirements.txt
+```
+3️⃣ Run the Streamlit app:  
+```bash
+ streamlit run app.py
+```
 
 ---
+
+## 🚀 Demo and Deployment
+🔗 **[👉 Try the Live Demo Here](https://fakenewsdetection-sqkrjjwxcjh9gia5i5ar83.streamlit.app/)**
+
+---
+
+## 💜 License  
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+
